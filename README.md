@@ -49,7 +49,7 @@ Create a realtime dashbroad to visualize the bacterial data for each volunteer i
 
 **Desktop**
 
-![UFOs_Desktop.png](static/images/Belly_Desktop.png)
+![Belly_Desktop.png](static/images/Belly_Desktop.png)
 
 **Ipad or Surface**
 
